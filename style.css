@@ -6,7 +6,7 @@
  header {
     background-color: lightgreen;
     height: 900px;
-    background-image: url("the-royal-senchi.jpg");
+    background-image: url("img/royalsenchi.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -114,7 +114,7 @@ header span {
 
      margin: 105px 0 60px;
 
-     background-image: url("nature.jpeg");
+     background-image: url("img/nature1.jpg");
      background-size: cover;
      background-repeat: no-repeat
     
